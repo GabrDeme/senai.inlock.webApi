@@ -36,7 +36,7 @@ namespace senai.inlock.webApi_.Controllers
                 new Claim(JwtRegisteredClaimNames.Email,usuarioBuscar.Email),
                 new Claim(ClaimTypes.Role, usuario.IdTipoUsuario.ToString())
             };
-                var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("filmes-chave-autenticado-webapi-dev"));
+                var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("inlock-chave-autenticado-webapi-dev"));
 
                 var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
