@@ -1,2 +1,16 @@
-# senai.inlock.webApi
-Uma empresa do ramo de games, a InLock, deseja realizar a criação de sua base de dados para armazenar os jogos que são vendidos em sua loja. Para isto, deverá ser desenvolvida uma API (JSON), para que o front-end realize a construção com base nas informações fornecidas.
+# InLock API Project
+
+## Overview
+
+This project is a practical exercise aimed at developing a database for **InLock**, a gaming company. The goal is to store information about the games sold in their store.
+
+## Solution
+
+A JSON-based API will be created to allow the front-end to pull data about the available games, ensuring smooth integration and a seamless user experience for listing the games.
+
+---
+
+## Technologies Used
+
+- **C#**: For building the API.
+- **JSON**: Used for data formatting and communication between the API and the front-end.
