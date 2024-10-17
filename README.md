@@ -14,3 +14,4 @@ A JSON-based API will be created to allow the front-end to pull data about the a
 
 - **C#**: For building the API.
 - **JSON**: Used for data formatting and communication between the API and the front-end.
+- **ASP.NET**: Framework for developing the API.
