@@ -1,4 +1,4 @@
-# InLock API Project
+# InLock API
 
 ## Overview
 
